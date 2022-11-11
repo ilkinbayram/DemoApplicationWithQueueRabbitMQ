@@ -1,0 +1,12 @@
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\bin\Debug\net6.0\Azure.deps.json
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\bin\Debug\net6.0\Azure.dll
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\bin\Debug\net6.0\Azure.pdb
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\obj\Debug\net6.0\Azure.csproj.AssemblyReference.cache
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\obj\Debug\net6.0\Azure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\obj\Debug\net6.0\Azure.AssemblyInfoInputs.cache
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\obj\Debug\net6.0\Azure.AssemblyInfo.cs
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\obj\Debug\net6.0\Azure.csproj.CoreCompileInputs.cache
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\obj\Debug\net6.0\Azure.dll
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\obj\Debug\net6.0\refint\Azure.dll
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\obj\Debug\net6.0\Azure.pdb
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Azure\obj\Debug\net6.0\ref\Azure.dll

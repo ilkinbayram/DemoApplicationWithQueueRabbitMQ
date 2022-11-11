@@ -1,0 +1,12 @@
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\bin\Debug\net6.0\Queue.Data.deps.json
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\bin\Debug\net6.0\Queue.Data.dll
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\bin\Debug\net6.0\Queue.Data.pdb
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\obj\Debug\net6.0\Queue.Data.csproj.AssemblyReference.cache
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\obj\Debug\net6.0\Queue.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\obj\Debug\net6.0\Queue.Data.AssemblyInfoInputs.cache
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\obj\Debug\net6.0\Queue.Data.AssemblyInfo.cs
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\obj\Debug\net6.0\Queue.Data.csproj.CoreCompileInputs.cache
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\obj\Debug\net6.0\Queue.Data.dll
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\obj\Debug\net6.0\refint\Queue.Data.dll
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\obj\Debug\net6.0\Queue.Data.pdb
+D:\TRAININGSPACE\Projects\ProjectWithMessageBrokerRMQ\AppWithMessageBroker\Queue.Data\obj\Debug\net6.0\ref\Queue.Data.dll

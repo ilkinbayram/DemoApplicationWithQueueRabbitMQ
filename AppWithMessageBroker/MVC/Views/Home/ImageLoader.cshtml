@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Image Loader";
+}
+
+<h1 class="text-center">Welcome To Image Loader</h1>
+
+<div class="container">
+    <div class="row">
+        <form asp-action="ImageLoader" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <div class="col-6">
+                    <div class="mb-3">
+                        <label for="editingContentId" class="form-label">Type your edit content...</label>
+                        <input class="form-control" type="text" placeholder="www.Coverage-Edit.example..." name="editingContent" id="editingContentId">
+                    </div>
+                    <div class="mb-3">
+                        <label for="formFileId" class="form-label">Image Loading...</label>
+                        <input class="form-control" type="file" name="formFile" id="formFileId">
+                    </div>
+                    <hr>
+                    <div class="mb-3">
+                        <label for="newFileNameId" class="form-label">You can declare new fileName...</label>
+                        <input class="form-control" type="text" placeholder="New file name... (optional)" name="newFileName" id="newFileNameId">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Send</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
